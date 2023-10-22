@@ -1,0 +1,79 @@
+[
+   {
+      "sentenceNo":1,
+      "chunkEng":"is it time to",
+      "keyword":"0-2,4",
+      "chunkMean":"~할 시간인가요?",
+      "sound":1
+   },
+   {
+      "sentenceNo":1,
+      "chunkEng":"get out of bed",
+      "keyword":"4,5,6,7",
+      "chunkMean":"침대에서 벗어나다, 일어나다.",
+      "sound":2
+   },
+   {
+      "sentenceNo":2,
+      "chunkEng":"it is time to",
+      "keyword":"0,1,2",
+      "chunkMean":"~할 시간이다.",
+      "sound":3
+   },
+   {
+      "sentenceNo":2,
+      "chunkEng":"get up",
+      "keyword":"3.4",
+      "chunkMean":"일어나다",
+      "sound":4
+   },
+   {
+      "sentenceNo":3,
+      "chunkEng":"did you~",
+      "keyword":"0.1",
+      "chunkMean":"너는 ~했니?",
+      "sound":5
+   },
+   {
+      "sentenceNo":3,
+      "chunkEng":"sleep well",
+      "keyword":"2.3",
+      "chunkMean":"잠을 잘 자다.",
+      "sound":6
+   },
+   {
+      "sentenceNo":4,
+      "chunkEng":"I feel~",
+      "keyword":"1.2",
+      "chunkMean":"나는 ~기분이다",
+      "sound":7
+   },
+   {
+      "sentenceNo":5,
+      "chunkEng":"be ready to~",
+      "keyword":"0,2,3",
+      "chunkMean":"~할 준비를 하다.",
+      "sound":8
+   },
+   {
+      "sentenceNo":6,
+      "chunkEng":"Let's ~ started",
+      "keyword":"4.6",
+      "chunkMean":"~시작하자",
+      "sound":9
+   },
+   {
+      "sentenceNo":7,
+      "chunkEng":"do you want",
+      "keyword":"0,1,2",
+      "chunkMean":"너는 ~ 하고 싶니?",
+      "sound":10
+   },
+   {
+      "sentenceNo":8,
+      "chunkEng":"I would love",
+      "keyword":"1,2,3",
+      "chunkMean":"나는 정말 ~ 하고 싶어 ",
+      "sound":11
+   }
+]
