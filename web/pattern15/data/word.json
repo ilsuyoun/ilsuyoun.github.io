@@ -23,28 +23,28 @@
    {
       "sentenceNo":2,
       "chunkEng":"get up",
-      "keyword":"3.4",
+      "keyword":"3,4",
       "chunkMean":"일어나다",
       "sound":4
    },
    {
       "sentenceNo":3,
       "chunkEng":"did you~",
-      "keyword":"0.1",
+      "keyword":"0,1",
       "chunkMean":"너는 ~했니?",
       "sound":5
    },
    {
       "sentenceNo":3,
       "chunkEng":"sleep well",
-      "keyword":"2.3",
+      "keyword":"2,3",
       "chunkMean":"잠을 잘 자다.",
       "sound":6
    },
    {
       "sentenceNo":4,
       "chunkEng":"I feel~",
-      "keyword":"1.2",
+      "keyword":"1,2",
       "chunkMean":"나는 ~기분이다",
       "sound":7
    },
@@ -58,7 +58,7 @@
    {
       "sentenceNo":6,
       "chunkEng":"Let's ~ started",
-      "keyword":"4.6",
+      "keyword":"4,6",
       "chunkMean":"~시작하자",
       "sound":9
    },
