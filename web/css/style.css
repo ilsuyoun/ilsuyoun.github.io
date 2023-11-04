@@ -154,15 +154,15 @@ h1 {
 /** The style for the DIV where flutter will be rendered, and the CSS fx */
 #flutter_target {
   border: 1px solid #aaa;
-  width: 640px;
+  width: 320px;
   height: 480px;
   border-radius: 0px;
   transition: all 150ms ease-in;
   align-self: center;
 }
 #flutter_target.resize {
-  width: 640px;
-  height: 480px;
+  width: 480px;
+  height: 320px;
 }
 #flutter_target.spin { animation: spin 6400ms ease-in-out infinite; }
 #flutter_target.shadow { position: relative; }
@@ -215,7 +215,7 @@ h1 {
   bottom: 0;
   left: 0;
   right: 0;
-  background: url(../icons/unsplash-x9WGMWwp1NM.png) no-repeat;
+  background: url(../web/icons/unsplash-x9WGMWwp1NM.png) no-repeat;
   background-size: 1000px;
   background-position: top right;
   opacity: 1;
