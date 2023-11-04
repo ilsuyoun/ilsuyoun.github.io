@@ -1,11 +1,11 @@
 {
-    "name": "element_embedding_demo",
-    "short_name": "element_embedding",
+    "name": "flutter_mov",
+    "short_name": "flutter_mov",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An example of how to embed a Flutter Web app into any HTML Element of a page.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
