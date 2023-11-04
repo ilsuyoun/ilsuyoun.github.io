@@ -47,7 +47,7 @@
       "keyword":"2,3",
       "meanText":"응, 아주 잘 잤어.",
       "meanSound":4,
-      "meanKeyword":2.3,
+      "meanKeyword":2,3,
       "coreMean":"상쾌한 기분이다",
       "reviewKeyWord":"잘 잤어."
    },
@@ -60,7 +60,7 @@
       "keyword":"4,5,6",
       "meanText":"오늘 하루 시작할 준비 되었나?",
       "meanSound":5,
-      "meanKeyword":2.3,
+      "meanKeyword":2,3,
       "coreMean":"하루를 시작하다",
       "reviewKeyWord":"할 준비#되었나?"
    },
@@ -99,7 +99,7 @@
       "keyword":"1,2,3",
       "meanText":"응. 아침으로 뭐라도 먹고 싶어.",
       "meanSound":8,
-      "meanKeyword":2.3,
+      "meanKeyword":2,3,
       "coreMean":"~하는 것을 좋아한다.",
       "reviewKeyWord":"으로#먹고 싶어."
    }
