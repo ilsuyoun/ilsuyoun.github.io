@@ -21,9 +21,9 @@
     <link rel="manifest" href="manifest.json" />
 
     <!-- This script adds the flutter initialization JS code -->
-    <script src="flutter.js" defer></script>
+    <script src="/web/flutter.js" defer></script>
 
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="web/css/style.css" />
   </head>
   <body>
     <section class="contents">
@@ -94,7 +94,7 @@
         });
       });
     </script>
-    <script src="js/demo-js-interop.js" defer></script>
-    <script src="js/demo-css-fx.js" defer></script>
+    <script src="web/js/demo-js-interop.js" defer></script>
+    <script src="web/js/demo-css-fx.js" defer></script>
   </body>
 </html>
