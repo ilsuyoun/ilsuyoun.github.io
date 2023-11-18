@@ -35,15 +35,20 @@ body {
     radial-gradient(ellipse at bottom, #71c7ee 40%, transparent 80%),
     radial-gradient(ellipse at 5% 340%, transparent 80%, #ddd 0);
   background-repeat: no-repeat;
-  color: #555;
+  color: #555;  
 }
 
 /** Layout **/
-body { display: flex; flex-direction: column; }
+body { 
+  display: flex; 
+  flex-direction: column;  
+  margin-top: -30px !important;
+}
+
 section.contents {
-  flex: 1 1 auto;
-  flex-direction: row;
-  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  display: block;  
 }
 section.contents aside {
   flex: 0;
@@ -154,11 +159,14 @@ h1 {
 /** The style for the DIV where flutter will be rendered, and the CSS fx */
 #flutter_target {
   border: 1px solid #aaa;
-  width: 480px;
-  height: 320px;
+  width: 100%;    
+  aspect-ratio: 1920 / 1080;
+  margin-left: 20px;
+  margin-right: 20px;
+  
   border-radius: 0px;
   transition: all 150ms ease-in;
-  align-self: center;
+  align-self: top;
 }
 #flutter_target.resize {
   width: 320px;
