@@ -1,32 +1,13 @@
 {
 "title":[
  {
-  "title": "subtitle",
-  "value": "Learn English through Brief hiSTORY"
- },
- {
-  "title": "subtitle keyword",
-  "value": "2,3,4"
- },
- {
-  "title": "subtitle color",
-  "value": "7F7F7F"
- },
- {
-  "title": "subtitle keyword color",
-  "value": "FFC000"
- },
- {
-  "title": "title",
-  "value": "The Mongol\\nInvasion"
- },
- {
-  "title": "title color",
-  "value": "FFC000"
- },
- {
-  "title": "title sound",
-  "value": 1
+  "subtitle": "Learn English through Brief hiSTORY",
+  "subtitle keyword": "2,3,4",
+  "subtitle color": "7F7F7F",
+  "subtitle keyword color": "FFC000",
+  "title": "The Mongol\\nInvasion",
+  "title color": "FFC000",
+  "title sound": 1
  }
 ],
 "phase":[
