@@ -225,56 +225,19 @@
 ],
 "options":[
  {
-  "option": "slow mode text",
-  "value": "Listen&Repeat : Slow"
- },
- {
-  "option": "sentence mode text",
-  "value": "Learn Sentences"
- },
- {
-  "option": "normal mode text",
-  "value": "Listen&Repeat : Fast"
- },
- {
-  "option": "slow mode speed",
-  "value": 0.9
- },
- {
-  "option": "sentence mode speed",
-  "value": 0.9
- },
- {
-  "option": "normal mode speed",
-  "value": 0.9
- },
- {
-  "option": "slow word delay",
-  "value": 0
- },
- {
-  "option": "slow sentence delay",
-  "value": 1000
- },
- {
-  "option": "slow page delay",
-  "value": 3000
- },
- {
-  "option": "sentence sentence delay",
-  "value": 2500
- },
- {
-  "option": "normal sentence delay",
-  "value": 1000
- },
- {
-  "option": "slow mode text size",
-  "value": 88
- },
- {
-  "option": "normal mode text size",
-  "value": 88
+  "slow mode text": "Listen&Repeat : Slow",
+  "sentence mode text": "Learn Sentences",
+  "normal mode text": "Listen&Repeat : Fast",
+  "slow mode speed": 0.9,
+  "sentence mode speed": 0.9,
+  "normal mode speed": 0.9,
+  "slow word delay": 0,
+  "slow sentence delay": 1000,
+  "slow page delay": 3000,
+  "sentence sentence delay": 2500,
+  "normal sentence delay": 1000,
+  "slow mode text size": 88,
+  "normal mode text size": 88
  }
 ]
 }
